@@ -2,14 +2,15 @@
 
 ### Desenvolvedor de Software | Foco em Back-end & Automação de Processos
 
-Sou um entusiasta de tecnologia em transição de carreira, unindo **11 anos de experiência na indústria** com o desenvolvimento de software moderno. Atualmente, curso Análise e Desenvolvimento de Sistemas e busco criar soluções que transformam processos manuais em fluxos digitais de alta performance.
+Sou um Desenvolvedor de Software focado em soluções de Back-end, unindo 11 anos de experiência na indústria à criação de sistemas escaláveis, unindo **11 anos de experiência na indústria** com o desenvolvimento de software moderno. Atualmente, curso Análise e Desenvolvimento de Sistemas e busco criar soluções que transformam processos manuais em fluxos digitais de alta performance.
 
 ---
 
-### 🚀 Destaque: Impacto Real no Negócio
-Por iniciativa própria, identifiquei gargalos operacionais no setor industrial e desenvolvi uma aplicação de **Automação de Consumo de Insumos**.
-* **Resultado:** Redução de **90% no tempo de resposta** e eliminação de erros manuais de cálculo.
-* **Tecnologias:** Python (Flask) e JavaScript.
+### 🚀 Projeto de Destaque: API de Automação Industrial
+Por iniciativa própria, desenvolvi uma solução Full Stack para otimizar o cálculo de consumo de insumos no setor produtivo.
+* **Impacto:** Redução de **90% no tempo de resposta** e eliminação de erros manuais.
+* **Arquitetura:** Desenvolvimento de uma **API REST** em Python que utiliza **Regex** para o parsing de arquivos RIP e processamento de dados complexos.
+* **Resultado:** Entrega de dados estruturados em JSON para uma interface dinâmica.
 
 ---
 
